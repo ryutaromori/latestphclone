@@ -28,4 +28,8 @@ class ApplicationController < ActionController::Base
       render json: { base: ['invalid credentials'] }, status: 401
     end
   end
+  
+  def fallback_index_html
+    render :file => 'public/index.html'
+  end
 end
