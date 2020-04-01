@@ -20,7 +20,7 @@
     "redux-thunk": "^2.2.0",
     "webpack": "^3.6.0",
     "redux-logger": "^3.0.6",
-    "react-scripts": "0.4.1",
+    "react-scripts": "0.4.1"
   },
 
   "directories": {
