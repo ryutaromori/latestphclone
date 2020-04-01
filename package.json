@@ -18,10 +18,11 @@
     "react-spinners": "^0.1.4",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
-    "webpack": "^3.6.0"
+    "webpack": "^3.6.0",
+    "redux-logger": "^3.0.6"
   },
   "devDependencies": {
-    "redux-logger": "^3.0.6"
+   
   },
   "directories": {
     "doc": "docs",
